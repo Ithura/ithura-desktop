@@ -3,14 +3,17 @@
 Ithura is a project management app with built-in chat. This repo holds the
 release files for the Ithura desktop app. It has no source code.
 
-## Download
+## Download (beta)
 
-macOS: https://github.com/Ithura/ithura-desktop/releases/latest/download/Ithura.dmg
+- macOS 12 or later (Apple Silicon and Intel):
+  https://github.com/Ithura/ithura-desktop/releases/latest/download/Ithura-mac.dmg
+- Windows 10 or 11, Intel or AMD:
+  https://github.com/Ithura/ithura-desktop/releases/latest/download/Ithura-windows-x64.exe
+- Windows on ARM:
+  https://github.com/Ithura/ithura-desktop/releases/latest/download/Ithura-windows-arm64.exe
 
-Requires macOS 12 or later. One build runs on Apple Silicon and Intel.
-
-The app is signed and notarized by Apple. Installed copies check for updates
-and install them after you confirm.
+The beta is not signed yet, so your computer asks you to confirm the first
+time you open it. The release notes explain how.
 
 ## Help
 
